@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServer>
+  <Imap>
+    <Host>localhost</Host>
+    <Port>143</Port>
+    <Username>username</Username>
+    <Password>password</Password>
+    <Encryption>ssl</Encryption>
+  </Imap>
+  <Smtp>
+    <Host>localhost</Host>
+    <Port>587</Port>
+    <Username>username</Username>
+    <Password>password</Password>
+    <Encryption>tls</Encryption>
+  </Smtp>
+</EmailServer>

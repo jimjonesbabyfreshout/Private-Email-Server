@@ -1,0 +1,16 @@
+{
+  "imap": {
+    "host": "localhost",
+    "port": 143,
+    "username": "username",
+    "password": "password",
+    "encryption": "ssl"
+  },
+  "smtp": {
+    "host": "localhost",
+    "port": 587,
+    "username": "username",
+    "password": "password",
+    "encryption": "tls"
+  }
+}
